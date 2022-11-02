@@ -1,0 +1,71 @@
+/**
+* @name rblxwild.theme
+* @version Auto Update
+* @description made by deez#2176
+* @author deez#2176
+* @invite deez#2176
+* @Source https://github.com/llvlcode/rblxwild-betterdiscord-theme.git
+* @website https://github.com/llvlcode/rblxwild-betterdiscord-theme.git
+*/
+@import url("https://puckzxz.github.io/NotAnotherAnimeTheme/build/v3/naat.v3.css");
+:root {
+--main-theme-color: #6100FFFF;
+--theme-transparency: #00000095;
+--theme-background-image: url('https://i.imgur.com/zvs9ysz.png');
+--home-icon-image: url('https://i.imgur.com/EIoS79g.png');
+--home-icon-image-zoom: 83%;
+--home-icon-image-position: center;
+--server-listing-width: 72px;
+--font-size: 92%;
+--mention-color: #7F31FF00;
+--mention-sider: #7523FAFF;
+--mention-hover-color: #faa61a14;
+--category-hover-color: #6821FFFF;
+--unread-server-animation: none;
+--video-screen-button-background-color: #1800FFFF;
+--video-screen-button-foreground-color: #8F1CFFFF;
+--video-screen-button-background-hovor-color: #542CC866;
+--video-screen-button-foreground-hovor-color: #7927FFFF;
+--member-listing-role-color: #0B00B5FF;
+--small-user-popout-background-image: url('https://i.imgur.com/9D70oS4.png');
+--small-user-popout-background-transparency: #1800FF99;
+--small-user-popout-background-image-position: center;
+--big-user-popout-background-image: url('https://i.imgur.com/ScksR4I.png');
+--big-user-popout-background-transparency: #00000099;
+--big-user-popout-background-image-position: center;
+--code-markup-background-color: #00000099;
+--code-markup-border: 1px solid transparent;
+--message-box-transparency: #1D05FF99;
+--embed-background-transparency: #1F08FF17;
+--message-hover-buttons-background: #240DFF1A;
+--context-menu-transparency: #541AFFCC;
+--add-discover-icon-transparency: #7E39FF26;
+--add-discover-icon-color: #7227FFFF;
+--channel-limit-count-color: #FF0000FF;
+--channel-limit-background-left: #10FF003B;
+--channel-limit-background-right: #FF000033;
+--scrollbar-color: #1900C833;
+--unread-message-divider-color: #B907F0FF;
+--unread-message-divider-font-color: #0D05FFFF;
+--new-messages-bar-background-color: #1500DAFF;
+--new-messages-bar-font-color: #ffffff;
+--emoji-menu-background-color: #8200FFFF;
+--emoji-menu-sider-background-color: #0800FFFF;
+--emoji-menu-server-header-background-color: #ffffff;
+--emoji-menu-bottom-bar-background-color: #ffffff;
+--emoji-menu-search-bar-background-color: #ffffff;
+--message-search-menu-background-color: #000000cc;
+--message-search-container-background-color: #00000099;
+--message-search-result-background-color: #c8c8c80d;
+--text-voice-channel-color: #8F7EFFFF;
+--text-voice-channel-hover-color: #5704DEFF;
+--text-voice-channel-selected-text-color: #0564FFFF;
+--unread-text-channel-color: #885FC9FF;
+--unread-text-channel-bubble-color: #2000FFFF;
+--folder-background-color: #7B1FFFFF;
+--expanded-folder-background-color: #00000000;
+--reaction-emoji-background-color: #661FFF00;
+--reaction-emoji-border-color: 1px solid transparent;
+--reaction-emoji-hover-background-color: #ffffff1a;
+--reaction-emoji-hover-border-color: #ffffff33;
+}
